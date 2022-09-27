@@ -17,7 +17,7 @@ Based on the given scenario, you will need to do the following:
 2. Update the POV deck (pptx will be provided) to create a presentation and pitch it to the customer
 3. Use the demo assets provided, customize them and show the solution to the customer
 
-The whole presentation shouldn't take longer than 15mins and will be followed by a short 5mins Q&A.
+The whole presentation shouldn't take longer than 15 minutes and will be followed by a short 5 mins Q&A.
 
 ## Presentation Criteria
 
@@ -29,6 +29,8 @@ The whole presentation shouldn't take longer than 15mins and will be followed by
 
 ## Breakouts
 
+Each team will be assigned a given scenarion from the list below that they will try to solve in the breakout part of this session.
+
 ### Scenario 0: SecurFinance (FSI) -- WILL BE PRESENTED BY ADOBE SOLUTION CONSULTANT
 
 Challenges:
@@ -36,7 +38,9 @@ Challenges:
 * Communications are static and doesn’t adjust to changes in customer context
 
 Environments:
-- not available
+- link here (web)
+- open DX Demo app on your mobile device, Enter this Project ID: 
+- https://docs.adobedemo.com/projects/public-projects/securfinancial
 
 ### Scenario 1: Luma (Retail)
 
@@ -108,7 +112,12 @@ Environments:
 - 16.30 Summary and Key Takeaway
 - 17.00 End of the session
 
-## Contacts
+## Adobe Contacts
 - Dominik Gach, dgach@adobe.com
 - Radim Sevcik, sevcik@adobe.com
 - Nishant Pithia, pithia@adobe.com
+
+## Feedback Form
+
+
+
