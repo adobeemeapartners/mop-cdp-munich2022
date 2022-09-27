@@ -1,3 +1,5 @@
+# Masters of Practice 2022 - Adobe Tech Sales Workshop (Real-Time CDP)
+
 ## Goal
 
 Learn and practice how to deliver a customer pitch (including a live demo) that shows how Adobe Real-Time Customer Data Platform solves business challenges in various industries. 
