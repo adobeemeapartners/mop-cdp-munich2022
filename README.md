@@ -23,9 +23,9 @@ The whole presentation shouldn't take longer than 15mins and will be followed by
 
 * Solution Design
 * Demo
-* Applicability
+* Applicability (Fly towards Amplify https://adobeamplify.com/)
 * Innovation/Creativity
-* Presentation and Completeness
+* Collaboration and Completeness
 
 ## Breakouts
 
@@ -45,7 +45,7 @@ Challenges:
 * Unable to see a single customer view across channels, LOBs and devices
 
 Environments:
--  (web)
+- link here (web)
 - open DX Demo app on your mobile device, Enter this Project ID: 
 - https://docs.adobedemo.com/projects/public-projects/luma/web
 
@@ -58,7 +58,7 @@ Challenges:
 
 Environments:
 
--  (web)
+- link here (web)
 - open DX Demo app on your mobile device, Enter this Project ID: 
 - https://docs.adobedemo.com/projects/public-projects/carvelo/web 
 
@@ -71,7 +71,7 @@ Challenges:
 
 Environments:
 
--  (web)
+- link here (web)
 - open DX Demo app on your mobile device, Enter this Project ID: 
 - https://docs.adobedemo.com/projects/public-projects/citi-signal/web 
 
@@ -98,13 +98,13 @@ Environments:
 ## Agenda
 
 - 9.15 Intro to the Workshop
-- 9.30 RTCDP Overview
+- 9.30 RT-CDP Overview
 - 10.00 Demo Customer Pitch (by Adobe Solution Consulting)
 - 10.45 Coffee Break
 - 11.00 Environments Walkthrough
 - 12.00 Lunch
 - 13.00 Breakouts
-- 15.30 Presentations
+- 15.30 Team Presentations
 - 16.30 Summary and Key Takeaway
 - 17.00 End of the session
 
