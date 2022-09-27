@@ -14,13 +14,15 @@ To make a discovery with the client, you will meet with the client representativ
 
 Based on the given scenario, you will need to do the following: 
 
-1. Write discovery questions given the customer's current challenges
-2. Update the POV deck (pptx will be provided) to create a presentation and pitch it to the customer
-3. Use the demo assets provided, customize them and show the solution to the customer
+1. Write discovery questions given the customer's current challenges.
+2. Create/update the Point-of-View deck (pptx is in this repository) to create a presentation and pitch it to the customer representatives.
+3. Use the Adobe demo assets provided, customize them and show the solution in action to the customer.
 
 The whole presentation shouldn't take longer than 15 minutes and will be followed by a short 5 mins Q&A.
 
 ## Presentation Criteria
+
+When building your presentation try to consider these aspects of a great customer pitch:
 
 * Solution Design
 * Demo
@@ -120,5 +122,6 @@ Environments:
 
 ## Feedback Form
 
-
+We will be more than happy to hear about your experience today. Any suggestions how to imporve this series are highly valuable to us.
+Link:
 
