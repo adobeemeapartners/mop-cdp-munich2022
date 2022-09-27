@@ -73,7 +73,7 @@ Environments:
 ## Experience Platform
 
 * ISM Org Name: AEP Partner Shared Training Sandbox
-* Sandbox Name: PwC TS Workshop (VA7)
+* Sandbox Name: 
 * Data Collection Properties: _search for your scenario Brand Name (e.g., Luma)_
 
 ## Mobile App
