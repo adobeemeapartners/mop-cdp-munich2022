@@ -108,7 +108,7 @@ Environments:
 - 9.30 RT-CDP Overview
 - 10.00 Demo Customer Pitch (by Adobe Solution Consulting)
 - 10.45 Coffee Break
-- 11.00 Environments Walkthrough
+- 11.00 Team Assignment and Environments Handover
 - 12.00 Lunch
 - 13.00 Breakouts
 - 15.30 Team Presentations
