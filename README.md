@@ -65,8 +65,8 @@ Challenges:
 
 Environments:
 
-- link here (web)
-- open DX Demo app on your mobile device, Enter this Project ID: 
+- [link here](https://builder.adobedemo.com/web/sevcik-K0MW) (web)
+- open DX Demo app on your mobile device, Enter this Project ID: Not Available
 - https://docs.adobedemo.com/projects/public-projects/carvelo/web 
 
 ### Scenario 3: City Signal (Telco)
