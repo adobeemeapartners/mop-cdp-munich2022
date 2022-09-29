@@ -41,8 +41,8 @@ Challenges:
 * Communications are static and doesn’t adjust to changes in customer context
 
 Environments:
-- link here (web)
-- open DX Demo app on your mobile device, Enter this Project ID: 
+- [link here](https://builder.adobedemo.com/web/sevcik-XHBZ) (web)
+- open DX Demo app on your mobile device, Enter this Project ID: sevcik-K86X (mobile)
 - https://docs.adobedemo.com/projects/public-projects/securfinancial
 
 ### Scenario 1: Luma (Retail)
