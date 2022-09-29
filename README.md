@@ -52,8 +52,8 @@ Challenges:
 * Unable to see a single customer view across channels, LOBs and devices
 
 Environments:
-- link here (web)
-- open DX Demo app on your mobile device, Enter this Project ID: 
+- [link here](https://builder.adobedemo.com/web/sevcik-6W6E/home) (web)
+- open DX Demo app on your mobile device, Enter this Project ID: sevcik-XCBG (mobile)
 - https://docs.adobedemo.com/projects/public-projects/luma/web
 
 ### Scenario 2: Carvelo (Automotive)
