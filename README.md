@@ -66,7 +66,7 @@ Challenges:
 Environments:
 
 - [link here](https://builder.adobedemo.com/web/sevcik-K0MW) (web)
-- open DX Demo app on your mobile device, Enter this Project ID: Not Available
+- open DX Demo app on your mobile device, Enter this Project ID: Not Available, Carvelo's focus is on Call-center channel.
 - https://docs.adobedemo.com/projects/public-projects/carvelo/web 
 
 ### Scenario 3: City Signal (Telco)
@@ -78,18 +78,18 @@ Challenges:
 
 Environments:
 
-- link here (web)
-- open DX Demo app on your mobile device, Enter this Project ID: 
+- [link here](https://builder.adobedemo.com/run/sevcik-UPK3) (web)
+- open DX Demo app on your mobile device, Enter this Project ID: sevcik-0PRA (mobile)
 - https://docs.adobedemo.com/projects/public-projects/citi-signal/web 
 
 ## Experience Platform
 
 * ISM Org Name: AEP Partner Shared Training Sandbox
-* Sandbox Name: 
-* Data Collection Properties: _search for your scenario Brand Name (e.g., Luma)_
+* Sandbox Name: CDP Practice Masters A/B/C/D (VA7)
 
 ## Mobile App
-
+* Read first: https://docs.adobedemo.com/dx-demo-mobile-app/overview/first-installation-+-first-launch
+* App links: https://builder.adobedemo.com/install
 
 
 ## Links & Assets
@@ -101,6 +101,7 @@ Environments:
 * For every new demo run always use new anonymous (incognito) window or reset the mobile app
 * When creating new profile append the email address and phone number with a hash (e.g. date and demo run, 20220707-01)
 * If you can't access AEP  - make sure you're using the Business ID (not Personal Adobe ID)
+* Use this guide for quick ingestion of CRM-like data: https://experienceleague.adobe.com/docs/platform-learn/comprehensive-technical-tutorial-v22/module2/ex4.html?lang=en
 
 ## Agenda
 
