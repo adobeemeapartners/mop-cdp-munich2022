@@ -41,11 +41,9 @@ Challenges:
 * Communications are static and doesn’t adjust to changes in customer context
 
 Environments:
-- [link here](https://builder.adobedemo.com/web/sevcik-XHBZ) (web)
-- open DX Demo app on your mobile device, Enter this Project ID: sevcik-K86X (mobile)
-- https://docs.adobedemo.com/projects/public-projects/securfinancial
+- not available
 
-### Scenario 1: Luma (Retail)
+### Scenario A: Luma (Retail)
 
 Challenges:
 * Unable to stitch known and anonymous data across channels & devices to create single view of customer in real-time
@@ -56,7 +54,18 @@ Environments:
 - open DX Demo app on your mobile device, Enter this Project ID: sevcik-XCBG (mobile)
 - https://docs.adobedemo.com/projects/public-projects/luma/web
 
-### Scenario 2: Carvelo (Automotive)
+### Scenario B: SecurFinance (FSI)
+
+Challenges:
+* Reaching out to customers to activate their card, fund their card, and set up direct deposits
+* Cross-channel view of their customers that effectively combines digital and traditional data channels
+
+Environments:
+- [link here](https://builder.adobedemo.com/web/sevcik-XHBZ) (web)
+- open DX Demo app on your mobile device, Enter this Project ID: sevcik-K86X (mobile)
+- https://docs.adobedemo.com/projects/public-projects/securfinancial
+
+### Scenario C: Carvelo (Automotive)
 
 Challenges:
 * Experiences only personalized to a subset of segments & channels (e.g. online but not instore) and lack insights that scale across audiences
@@ -69,7 +78,7 @@ Environments:
 - open DX Demo app on your mobile device, Enter this Project ID: Not Available, Carvelo's focus is on Call-center channel.
 - https://docs.adobedemo.com/projects/public-projects/carvelo/web 
 
-### Scenario 3: City Signal (Telco)
+### Scenario D: City Signal (Telco)
 
 Challenges:
 
